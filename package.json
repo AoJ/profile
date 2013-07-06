@@ -1,0 +1,13 @@
+{
+  "name": "profile",
+  "version": "0.0.1",
+  "description": "measure time and memory to debugging app",
+  "keywords": [],
+  "author": "AoJ <aoj@n13.cz>",
+  "repository": { "type": "git", "url": "git://github.com/AoJ/profile.git" },
+  "dependencies": {
+    "bytes": "*"
+    },
+  "devDependencies": {},
+  "main": "index"
+}
