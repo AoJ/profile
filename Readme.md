@@ -1,5 +1,4 @@
-
-# Profile
+# Profile [![Dependency Status](https://david-dm.org/AoJ/profile.png)](https://david-dm.org/AoJ/profile)
 
   measure time and memory to debugging app
 
